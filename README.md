@@ -13,7 +13,7 @@ This unit will cover data joins and transformations, generalized linear models a
 
 - HW_6_fisheries - Assigned: 3/26/2026, Due: 4/7/2026
 
-HW6 repo link: TBD
+HW6 repo link: <https://classroom.github.com/a/g3bS_bOB>
 
 ***
 
